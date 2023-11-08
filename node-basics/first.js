@@ -1,0 +1,10 @@
+console.log("Hello NodeJS");
+var a = 10;
+var b = 20;
+var c = a + b;
+console.log(c);
+console.log(process);
+console.log(typeof process);
+console.log(process.version);
+console.log(process.versions.uv);
+console.log(process.platform);
